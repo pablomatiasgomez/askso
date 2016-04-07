@@ -1,0 +1,23 @@
+{
+	"name": "askso",
+	"version": "1.0.0",
+	"description": "tiny script to ask a question to StackOverflow and get the best answer right in your terminal",
+	"main": "ask.js",
+	"url" : "https://github.com/pablomatiasgomez/askso",
+	"email" : "pablomatiasgomez@gmail.com",
+	
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/pablomatiasgomez/askso"
+	},
+
+	"author": {
+		"name": "Pablo Matias Gomez",
+		"email": "pablomatiasgomez@gmail.com",
+		"url": "http://pablomatiasgomez.com.ar"
+	},
+
+	"dependencies": {
+  		"cheerio" : "0.20.0"
+	}
+}
